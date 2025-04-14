@@ -1,8 +1,10 @@
 # Applied Statistics Project 
-This project was created as part of an Applied Statistics course and focuses on analyzing and predicting the worldwide box office revenue of movies using statistical techniques.
+This project was created as part of an **Applied Statistics** course and focuses on analyzing and predicting the worldwide box office revenue of movies using statistical techniques and data analysis in Python..
 
-The dataset includes information for 3,000 movies from The Movie Database (TMDb), such as budget, popularity, language, cast, and production companies. The project is divided into 2 exercises:
+## Project Overview
+The dataset includes 3,000 movies from **The Movie Database (TMDb)**, featuring details like: budget, popularity, language, cast, and production companies. The project is divided into 2 exercises:
 
+## Exercises
 ### Exercise 1: Exploratory Analysis and Feature Selection Based on Correlation
 
 We begin by analyzing the relationship between the revenue and four explanatory variables:
@@ -29,3 +31,10 @@ We then:
 -	Interpret the model coefficients and discuss variable importance
 
 The goal is to understand which variables most strongly affect movie revenue and how well a linear model can explain the variability in the data.
+
+## Contents
+`movie_revenues.csv` : Dataset with 3,000 movies 
+`Applied_statistics_project.ipynb` : Main Jupyter notebook with code and analysis 
+`Applied-Statistics-Project.pdf`: Final report
+
+
