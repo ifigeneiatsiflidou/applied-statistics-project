@@ -34,7 +34,9 @@ The goal is to understand which variables most strongly affect movie revenue and
 
 ## Contents
 `movie_revenues.csv` : Dataset with 3,000 movies 
+
 `Applied_statistics_project.ipynb` : Main Jupyter notebook with code and analysis 
+
 `Applied-Statistics-Project.pdf`: Final report
 
 
